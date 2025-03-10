@@ -12,13 +12,11 @@ The following figures illustrate:
 - The structure of different object detection architectures.
 - The categorization of optimization methods used in model design.
 
-<div align="center">
+### **Object Detection Architecture Components**
+![Overview of Object Detection Architectures](overview.jpg)
 
-| ![Overview of Object Detection Architectures](overview.jpg) | ![Overview of Optimization Techniques](optim.png) |
-|:----------------------------------------------------------:|:-------------------------------------------------:|
-| *Object Detection Architecture Components* | *Categorization of Optimization Techniques* |
-
-</div>
+### **Categorization of Optimization Techniques**
+![Overview of Optimization Techniques](optim.png)
 
 
 ---
