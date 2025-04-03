@@ -114,9 +114,9 @@ If you find this useful, please consider citing our **survey paper** (Coming soo
 
 ```bibtex
 @article{your_survey,
-  author  = {Your Name and Co-Authors},
-  title   = {Survey on Lightweight Object Detection Models},
-  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},
-  year    = {2024}
+  author  = {},
+  title   = {},
+  journal = {},
+  year    = {}
 }
 
