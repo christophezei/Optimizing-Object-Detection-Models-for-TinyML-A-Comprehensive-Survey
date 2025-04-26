@@ -1,4 +1,4 @@
-# 📊 Optimizing Object Detection Models for TinyML: A Comprehensive Survey
+# 📊 Designing Object Detection Models for TinyML: Foundations, Comparative Analysis, Challenges, and Emerging Solutions
 
 ## Overview
 
