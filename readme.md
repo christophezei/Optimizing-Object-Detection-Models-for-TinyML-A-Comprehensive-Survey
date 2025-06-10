@@ -110,13 +110,22 @@ The following figures illustrate:
 ---
 
 ### 📢 Citation
-If you find this useful, please consider citing our **survey paper** (Coming soon).
+If you find this useful, please consider citing our **survey paper**.
 
 ```bibtex
-@article{your_survey,
-  author  = {},
-  title   = {},
-  journal = {},
-  year    = {}
+@article{10.1145/3744339,
+author = {El Zeinaty, Christophe and Hamidouche, Wassim and Herrou, Glenn and Menard, Daniel},
+title = {Designing Object Detection Models for TinyML: Foundations, Comparative Analysis, Challenges, and Emerging Solutions},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3744339},
+doi = {10.1145/3744339},
+abstract = {Object detection (OD) has become vital for numerous computer vision applications, but deploying it on resource-constrained internet of things (IoT) devices presents a significant challenge. These devices, often powered by energy-efficient microcontrollers, struggle to handle the computational load of deep learning-based OD models. This issue is compounded by the rapid proliferation of IOT devices, predicted to surpass 150 billion by 2030. TinyML offers a compelling solution by enabling OD on ultra-low-power devices, paving the way for efficient and real-time OD at the edge. Although numerous survey papers have been published on this topic, they often overlook the optimization challenges associated with deploying OD models in TinyML environments. To address this gap, this survey paper provides a detailed analysis of key optimization techniques for deploying OD models on resource-constrained devices. These techniques include quantization, pruning, knowledge distillation, and neural architecture search. Furthermore, we explore both theoretical approaches and practical implementations, bridging the gap between academic research and real-world edge artificial intelligence (AI) deployment. Finally, we compare the key performance indicators (KPIs) of existing OD implementations on microcontroller devices, highlighting the achieved maturity level of these solutions in terms of both prediction accuracy and efficiency. We also provide a public repository to continually track developments in this fast-evolving field: Link.},
+note = {Just Accepted},
+journal = {ACM Comput. Surv.},
+month = jun,
+keywords = {Model Compression, Embedded Systems, Edge Computing, TinyML}
 }
 
